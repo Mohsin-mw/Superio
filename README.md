@@ -3,7 +3,7 @@
 ![image](https://github.com/Mohsin-mw/Superio/assets/122507740/8cc1db7e-cbdb-47a7-a378-4eff776fc844)
 
 ## Overview
-Introducing Superio – a sophisticated job portal and job board crafted meticulously using Django and Next.js. This innovative platform revolutionizes the job search and recruitment process, providing both job seekers and employers with intuitive features and seamless functionality.
+Introducing Superio – a sophisticated job portal and job board crafted meticulously using Vue and Laravel. This innovative platform revolutionizes the job search and recruitment process, providing both job seekers and employers with intuitive features and seamless functionality.
 
 ## 🚀 Key Features
 - **User-friendly Interface:** Navigate effortlessly through the platform's intuitive interface tailored for both job seekers and employers.
@@ -17,10 +17,9 @@ Introducing Superio – a sophisticated job portal and job board crafted meticul
 - **Responsive Design:** Enjoy optimal performance across various devices and screen sizes with Superio's responsive design.
 
 ## 🛠️ Technologies Used
-- **Backend:** Django
-- **Frontend:** Next.js (React)
+- **Backend:** Laravel
+- **Frontend:** Vue
 - **Database:** PostgreSQL
-- **Authentication:** Django REST Framework authentication
 - **APIs:** RESTful API for seamless communication between frontend and backend
 
 ## 🌟 Getting Started
